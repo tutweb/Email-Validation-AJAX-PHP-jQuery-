@@ -1,0 +1,2 @@
+<h1>Validasi Email dengan Ajax dan PHP (jQuery)</h1>
+<p>Baca tutorial validasi email dengan AJAX dan PHP secara lengkap <a href="http://www.jurnalweb.com/validasi-email-dengan-ajax-php-jquery" target="_blank">disini</a></p>
